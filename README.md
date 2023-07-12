@@ -1,4 +1,4 @@
-###Hélène Becquembois
+### Hélène Becquembois
 
 Hello, I'm Hélène 👋🏼
 
@@ -6,9 +6,9 @@ I finished in June 2023 a 9 week intensive bootcamp in full stack web developmen
 
 I am a very curious person, eager to learn always more. Amongst others, I am passionate about music, gastronomy and reading.
 
-🌱 I learned Ruby, Ruby on Rails, SQL, HTML/CSS/Bootstrap, ES6, JS, wireframing on Figma
-💼 Check my LinkedIn profile: https://www.linkedin.com/in/hbecquembois/
-📫 Contact me : hbecquembois@gmail.com
+- 🌱 I learned Ruby, Ruby on Rails, SQL, HTML/CSS/Bootstrap, ES6, JS, wireframing on Figma
+- 💼 Check my LinkedIn profile: https://www.linkedin.com/in/hbecquembois/
+- 📫 Contact me: hbecquembois@gmail.com
 
 
 <!--
