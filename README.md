@@ -1,8 +1,8 @@
 ### Hélène Becquembois
 
-Hello, I'm Hélène 👋🏼
+Hi, I'm Hélène 👋🏼
 
-I finished in June 2023 a 9 week intensive bootcamp in full stack web development at Le Wagon Paris (batch #1210) to start a new life as a developer. Previous to that I have worked for 20 years in the public sector. My plan is now to work on concrete and meaningful projects. I am concerned by environmental issues and women's rights. 
+I finished in June 2023 a 9 week intensive bootcamp in full stack web development at Le Wagon Paris (batch #1210) to start a new life as a web developer. Previous to that I have worked for 20 years in the public sector. My plan is now to work on concrete and meaningful projects. I am concerned by environmental issues and women's rights. 
 
 I am a very curious person, eager to learn always more. Amongst others, I am passionate about music, gastronomy and reading.
 
